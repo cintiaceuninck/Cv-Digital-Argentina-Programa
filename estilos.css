@@ -1,4 +1,4 @@
- *{
+*{
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
@@ -486,13 +486,13 @@ opacity: 0;
            
         
         }
-        img.img-tarjetas:hover{
+       /* img.img-tarjetas:hover{
             display: flex;
             text-align: center;
             transform: none;
             transition: 0;
            
-        }
+        }*/
         .contenedor-cajas-info{
             display: flex;
             flex-direction: row;
